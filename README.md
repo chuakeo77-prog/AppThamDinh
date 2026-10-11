@@ -1,0 +1,2 @@
+# AppThamDinh
+requirements.txt
